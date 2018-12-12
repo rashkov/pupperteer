@@ -1,0 +1,11 @@
+{
+  "name": "puptest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "lodash": "^4.17.11",
+    "puppeteer": "^1.11.0"
+  }
+}
