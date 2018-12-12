@@ -1,14 +1,3 @@
-/*
- * Install dependencies:
- * npm install
- *
- * Run:
- * node ok.js
- *    or
- * HEADLESS=false node ok.js
- *
- */
-
 const puppeteer = require('puppeteer');
 const _ = require('lodash');
 
